@@ -1,0 +1,2 @@
+/* Write your T-SQL query statement below */
+SELECT product_id FROM Products where  low_fats='Y' and recyclable='Y';
