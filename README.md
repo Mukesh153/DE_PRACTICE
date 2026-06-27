@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1484-group-sold-products-by-the-date) |
 | [1729-find-followers-count](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1729-find-followers-count) |
 | [1789-primary-department-for-each-employee](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1789-primary-department-for-each-employee) |
