@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Mukesh153/DE_PRACTICE/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Mukesh153/DE_PRACTICE/tree/master/0619-biggest-single-number) |
+| [0626-exchange-seats](https://github.com/Mukesh153/DE_PRACTICE/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1070-product-sales-analysis-iii) |
 | [1174-immediate-food-delivery-ii](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1193-monthly-transactions-i) |
