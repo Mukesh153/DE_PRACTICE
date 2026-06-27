@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1193-monthly-transactions-i](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Mukesh153/DE_PRACTICE/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
