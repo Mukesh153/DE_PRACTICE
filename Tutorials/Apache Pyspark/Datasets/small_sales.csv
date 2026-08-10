@@ -1,0 +1,9 @@
+order_id,product,category,price,quantity,country,order_date
+1,Apple,Produce,0.5,10,US,2023-01-01
+2,Banana,Produce,0.2,30,US,2023-01-02
+3,Shampoo,Personal,4.5,2,CA,2023-01-02
+4,Soap,Personal,1.0,5,US,2023-01-03
+5,TV,Electronics,299.99,1,DE,2023-01-04
+6,Headphones,Electronics,29.99,3,US,2023-01-04
+7,Milk,Dairy,1.5,12,CA,2023-01-05
+8,Bread,Bakery,1.2,8,US,2023-01-05
