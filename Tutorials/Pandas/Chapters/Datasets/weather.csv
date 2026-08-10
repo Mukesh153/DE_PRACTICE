@@ -1,0 +1,32 @@
+MIN temp (deg Celcius),Location,Time,Wind,MAX temp (deg Celcius),Description,Precipitation (in %),Date,Other Details,Humidity (in %),Day
+22,"Bharsul, India 10-day Weather",23:04 IST,NE 2 km/h ,--,Clear,0,18 OCT,Generally clear. Low 22ºC. Winds NE and variable.,48,Tonight
+22,"Bharsul, India 10-day Weather",23:04 IST,NNW 7 km/h ,36,Mostly Sunny,0,19 OCT,Generally clear. High 36ºC. Winds NNW and variable.,29,Fri
+22,"Bharsul, India 10-day Weather",23:04 IST,SSW 5 km/h ,35,Sunny,0,20 OCT,Generally clear. High 35ºC. Winds SSW and variable.,29,Sat
+21,"Bharsul, India 10-day Weather",23:04 IST,WSW 9 km/h ,36,Sunny,0,21 OCT,Generally clear. High 36ºC. Winds WSW and variable.,32,Sun
+21,"Bharsul, India 10-day Weather",23:04 IST,N 9 km/h ,35,Sunny,0,22 OCT,Generally clear. High 35ºC. Winds N and variable.,31,Mon
+21,"Bharsul, India 10-day Weather",23:04 IST,W 8 km/h ,35,Sunny,0,23 OCT,Generally clear. High 35ºC. Winds W and variable.,29,Tue
+21,"Bharsul, India 10-day Weather",23:04 IST,SSE 7 km/h ,34,Mostly Sunny,0,24 OCT,Generally clear. High 34ºC. Winds SSE and variable.,28,Wed
+20,"Bharsul, India 10-day Weather",23:04 IST,SSW 9 km/h ,34,Mostly Sunny,0,25 OCT,Generally clear. High 34ºC. Winds SSW and variable.,27,Thu
+20,"Bharsul, India 10-day Weather",23:04 IST,E 7 km/h ,34,Mostly Sunny,0,26 OCT,Generally clear. High 34ºC. Winds E and variable.,29,Fri
+19,"Bharsul, India 10-day Weather",23:04 IST,NE 10 km/h ,34,Sunny,0,27 OCT,Generally clear. High 34ºC. Winds NE at 10 to 15 km/h.,30,Sat
+19,"Bharsul, India 10-day Weather",23:04 IST,NE 7 km/h ,33,Sunny,0,28 OCT,Generally clear. High 33ºC. Winds NE and variable.,28,Sun
+19,"Bharsul, India 10-day Weather",23:04 IST,ENE 6 km/h ,33,Sunny,0,29 OCT,Generally clear. High 33ºC. Winds ENE and variable.,26,Mon
+19,"Bharsul, India 10-day Weather",23:04 IST,E 6 km/h ,33,Sunny,0,30 OCT,Generally clear. High 33ºC. Winds E and variable.,27,Tue
+19,"Bharsul, India 10-day Weather",23:04 IST,ESE 5 km/h ,33,Sunny,0,31 OCT,Generally clear. High 33ºC. Winds ESE and variable.,27,Wed
+19,"Bharsul, India 10-day Weather",23:04 IST,NNW 5 km/h ,33,Sunny,0,1 NOV,Generally clear. High 33ºC. Winds NNW and variable.,28,Thu
+MIN temp (deg Celcius),Location,Time,Wind,MAX temp (deg Celcius),Description,Precipitation (in %),Date,Other Details,Humidity (in %),Day
+22,"Bharsul, India 10-day Weather",23:04 IST,NE 2 km/h ,--,Clear,0,18 OCT,Generally clear. Low 22ºC. Winds NE and variable.,48,Tonight
+22,"Bharsul, India 10-day Weather",23:04 IST,NNW 7 km/h ,36,Mostly Sunny,0,19 OCT,Generally clear. High 36ºC. Winds NNW and variable.,29,Fri
+22,"Bharsul, India 10-day Weather",23:04 IST,SSW 5 km/h ,35,Sunny,0,20 OCT,Generally clear. High 35ºC. Winds SSW and variable.,29,Sat
+21,"Bharsul, India 10-day Weather",23:04 IST,WSW 9 km/h ,36,Sunny,0,21 OCT,Generally clear. High 36ºC. Winds WSW and variable.,32,Sun
+21,"Bharsul, India 10-day Weather",23:04 IST,N 9 km/h ,35,Sunny,0,22 OCT,Generally clear. High 35ºC. Winds N and variable.,31,Mon
+21,"Bharsul, India 10-day Weather",23:04 IST,W 8 km/h ,35,Sunny,0,23 OCT,Generally clear. High 35ºC. Winds W and variable.,29,Tue
+21,"Bharsul, India 10-day Weather",23:04 IST,SSE 7 km/h ,34,Mostly Sunny,0,24 OCT,Generally clear. High 34ºC. Winds SSE and variable.,28,Wed
+20,"Bharsul, India 10-day Weather",23:04 IST,SSW 9 km/h ,34,Mostly Sunny,0,25 OCT,Generally clear. High 34ºC. Winds SSW and variable.,27,Thu
+20,"Bharsul, India 10-day Weather",23:04 IST,E 7 km/h ,34,Mostly Sunny,0,26 OCT,Generally clear. High 34ºC. Winds E and variable.,29,Fri
+19,"Bharsul, India 10-day Weather",23:04 IST,NE 10 km/h ,34,Sunny,0,27 OCT,Generally clear. High 34ºC. Winds NE at 10 to 15 km/h.,30,Sat
+19,"Bharsul, India 10-day Weather",23:04 IST,NE 7 km/h ,33,Sunny,0,28 OCT,Generally clear. High 33ºC. Winds NE and variable.,28,Sun
+19,"Bharsul, India 10-day Weather",23:04 IST,ENE 6 km/h ,33,Sunny,0,29 OCT,Generally clear. High 33ºC. Winds ENE and variable.,26,Mon
+19,"Bharsul, India 10-day Weather",23:04 IST,E 6 km/h ,33,Sunny,0,30 OCT,Generally clear. High 33ºC. Winds E and variable.,27,Tue
+19,"Bharsul, India 10-day Weather",23:04 IST,ESE 5 km/h ,33,Sunny,0,31 OCT,Generally clear. High 33ºC. Winds ESE and variable.,27,Wed
+19,"Bharsul, India 10-day Weather",23:04 IST,NNW 5 km/h ,33,Sunny,0,1 NOV,Generally clear. High 33ºC. Winds NNW and variable.,28,Thu
